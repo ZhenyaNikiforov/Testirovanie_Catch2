@@ -1,0 +1,9 @@
+C:/Users/Женя/Desktop/2_Catch2/out/build/x64-Debug/CMakeFiles/TestumClassList2.dir
+C:/Users/Женя/Desktop/2_Catch2/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Женя/Desktop/2_Catch2/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Женя/Desktop/2_Catch2/out/build/x64-Debug/Catch2-devel/CMakeFiles/edit_cache.dir
+C:/Users/Женя/Desktop/2_Catch2/out/build/x64-Debug/Catch2-devel/CMakeFiles/rebuild_cache.dir
+C:/Users/Женя/Desktop/2_Catch2/out/build/x64-Debug/Catch2-devel/src/CMakeFiles/Catch2.dir
+C:/Users/Женя/Desktop/2_Catch2/out/build/x64-Debug/Catch2-devel/src/CMakeFiles/Catch2WithMain.dir
+C:/Users/Женя/Desktop/2_Catch2/out/build/x64-Debug/Catch2-devel/src/CMakeFiles/edit_cache.dir
+C:/Users/Женя/Desktop/2_Catch2/out/build/x64-Debug/Catch2-devel/src/CMakeFiles/rebuild_cache.dir
