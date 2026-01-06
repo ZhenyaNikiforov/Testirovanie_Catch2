@@ -1,0 +1,127 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "Catch2-devel",
+					"childIndexes" : 
+					[
+						2
+					],
+					"jsonFile" : "directory-Catch2-devel-Debug-d7b92baff1a3f32b9c89.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "Catch2-devel"
+				},
+				{
+					"build" : "Catch2-devel/src",
+					"jsonFile" : "directory-Catch2-devel.src-Debug-0aff12e4c897c6234808.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 1,
+					"source" : "Catch2-devel/src",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "TestumClassList2",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1,
+						2
+					],
+					"name" : "Catch2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Catch2::@19f9351d2b8ed4dc9b62",
+					"jsonFile" : "target-Catch2-Debug-63372d6d41b49d58a3ad.json",
+					"name" : "Catch2",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "Catch2WithMain::@19f9351d2b8ed4dc9b62",
+					"jsonFile" : "target-Catch2WithMain-Debug-0a9c0f70dbc05bfd2fa0.json",
+					"name" : "Catch2WithMain",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "TestumClassList2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-TestumClassList2-Debug-f60f208205ccbd641e15.json",
+					"name" : "TestumClassList2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/\u0416\u0435\u043d\u044f/Desktop/\u0421\u0430\u043c\u043e\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430/\u0422\u0435\u0441\u0442\u044b_\u043a\u0430\u0442\u04472/Testirovanie_Catch2/2_Catch2/out/build/x64-Debug",
+		"source" : "C:/Users/\u0416\u0435\u043d\u044f/Desktop/\u0421\u0430\u043c\u043e\u041f\u0440\u043e\u0432\u0435\u0440\u043a\u0430/\u0422\u0435\u0441\u0442\u044b_\u043a\u0430\u0442\u04472/Testirovanie_Catch2/2_Catch2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 8
+	}
+}
